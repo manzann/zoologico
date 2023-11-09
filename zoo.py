@@ -51,3 +51,6 @@ tokio.hacerSonido()
 #método "hacer_sonido".
 
 animales = [potro, tokio]
+
+
+print ("Sergio")
